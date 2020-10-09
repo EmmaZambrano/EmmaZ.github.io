@@ -10,12 +10,12 @@ description: "Restaurante Familiar"
 # Team names, titles and social links
 people:
 - name: Emma Zambrano
-  pic: 1
+  pic:
   position: Lead Designer
   social:
-    - title: E-mail
+    - title: Gmail
       url: # emma.zambranoesp@ug.edu.ec
-    - title: Instagram
+    - title: instagram
       url: #
     - title: github
       url: # https://github.com/EmmaZambrano
